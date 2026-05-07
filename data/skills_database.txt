@@ -1,0 +1,15 @@
+python
+machine learning
+tensorflow
+pandas
+numpy
+sql
+nlp
+scikit-learn
+data analysis
+deep learning
+git
+flask
+streamlit
+matplotlib
+plotly
